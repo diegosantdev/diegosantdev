@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/tech.gif" width="100%" height="180px" style="object-fit:cover;" />
+<img src="https://i.pinimg.com/originals/9b/47/79/9b4779d9b885ecdf2f6d4a02cf926059.gif" width="100%" height="180px" style="object-fit:cover;" />
 
 </div>
 
@@ -30,9 +30,8 @@ From idea to production, end-to-end, efficient, fast, and impactful.
 
 ---
 
-<br/>
 
-<img align="right" src="assets/waves.gif" width="340px" />
+<br/>
 
 ### `whoami`
 
@@ -58,8 +57,6 @@ $ cat about.json
   "status":   "shipping"
 }
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -120,6 +117,11 @@ I work across the full stack, from AI layers to databases, infra, and UI.
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
+<div align="center">
+
+<img src="https://i.pinimg.com/originals/6c/eb/11/6ceb11e2c9f57e8750fe5380184df426.gif" width="100%" style="object-fit:cover;" />
+
+</div>
 
 <br/>
 
@@ -144,8 +146,7 @@ I work across the full stack, from AI layers to databases, infra, and UI.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=diegosantdev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&ring_color=ffffff&include_all_commits=true&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosantdev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&count_private=true&langs_count=8" height="170" />
+
 
 </div>
 
@@ -171,11 +172,11 @@ I work across the full stack, from AI layers to databases, infra, and UI.
 
 <br/>
 
-### `> trophies`
+### `> contributions`
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=diegosantdev&theme=onedark&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
@@ -196,7 +197,7 @@ I work across the full stack, from AI layers to databases, infra, and UI.
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=diegosantdev&style=flat-square&color=ffffff&label=profile+views&labelColor=0d1117)
+![Profile views](https://komarev.com/ghpvc/?username=diegosantdev&style=flat-square&color=58a6ff&label=profile+views)
 
 </div>
 
