@@ -1,13 +1,5 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/86/87/77/8687775247ff41a1ccaff7d6fdfb580a.gif" width="100%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ```
 d i e g o s a n t d e v
 ```
@@ -60,6 +52,13 @@ $ cat about.json
 
 ---
 
+<div align="center">
+
+<img src="https://i.pinimg.com/originals/86/87/77/8687775247ff41a1ccaff7d6fdfb580a.gif" width="100%" />
+
+</div>
+
+<br/>
 <br/>
 
 ### `> what_i_build`
